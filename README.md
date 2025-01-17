@@ -6,7 +6,7 @@
 
 Unless otherwise stated in each prompt document, my prompts are targeting ChatGPT 4o or o1 models.  I may from time-to-time write a specific prompt for Google Gemini, Anthropic, or other LLMs. 
 
-Most of these were created by me (vs cited within the prompt-file.md if sourced from somewhere).
+Most of these were crafted by me the past year (vs noted within the prompt-file.md, if sourced from somewhere).
 
 Note: Prompt engineering is currently more art than science, and these prompt files are living documents which I am often changing.  So you may want to check-back now and then, if you download or fork this repo.
 
