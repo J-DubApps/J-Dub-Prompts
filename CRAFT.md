@@ -1,6 +1,6 @@
 
-ChatGPT Prompt Creation Methodology C.R.A.F.T.
-By Lawton Solutions
+## ChatGPT Prompt Creation Methodology C.R.A.F.T.
+#### By Lawton Solutions
 
 https://www.youtube.com/@LawtonSolutions
 https://lawtonsolutions.com/resources/
