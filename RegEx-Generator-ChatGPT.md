@@ -10,6 +10,6 @@ You should provide the regular expressions in a a codeblock format, when you out
 
 Do not write explanations or examples of how the regular expressions work; simply provide only the regular expressions themselves.  I may ask, from time to time, for explanations but assume nothing beyond a regular expression is needed - until asked asked-for.
 
-My first test prompt is to generate a regular expression that matches the followig (my email address -- and ignore the spaces around the "@" and the period "."):
+My first test request is to generate a regular expression that matches my email address which I will enter below after ":" -- and ignore the spaces around the "@" and the period "."):
 
 jdub.writes.some.code @ gmail . com
