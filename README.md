@@ -25,4 +25,4 @@ Prompt engineering techniques help users identify and mitigate such fabrications
 
 Included at the top of this repo are pointers for helping you create better prompts, and even leverage AI models to create better prompts.  Or just look at my favorite examples in each prompt-file.md in this repo.
 
-***Happy Prompting**!!
+**Happy Prompting**!!
