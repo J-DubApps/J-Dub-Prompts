@@ -1,6 +1,6 @@
 # J-Dub-Prompts
 
-### A curated list of my favorite or most-used LLM prompts, in markdown form.
+### A curated list of my favorite or most-used LLM prompts.
 
 **Prompt Engineering**: ***The practice of designing and refining inputs to guide AI models toward producing desired outputs.*** 
 
