@@ -27,14 +27,14 @@ This can be descriptive words or a past similar thing, to help inform the *new o
 
 E.g. if having it rewrite your resume, in addition to the exmple of the resume itself, providing a example of a resume that you like as well.
 
-### Role /  
+### Role / Persona
 
 **Who do you want the AI to be?  Think of someone (an expert, etc) that you wish you had instant access to for the task you're facing.**
 
     Example: if looking for a job, tell the AI "you're a hiring manager..."
     Example: if you're injured, tell the AI "you're an experienced physical therapist..."
 
-### Format -
+### Format
 
 **Give any direction as to how you want the output to be structured. Visualize the format you want the result to be in (emails, codeblocks, bullet points, etc).**
 
@@ -45,3 +45,12 @@ Example: "Output in table format with column headers "Feedback", "Team", and "Pr
 **Specify the output tone/voice for the output**.  
 
 Example: "Use a {casual / formal} tone" or "Give me a witty output" or "Show enthhusiasm" or "sound pessimistic" etc.
+
+
+-----
+### Optional Elements
+
+Ask the AI LLM to include its thought process:
+
+**Provide your thought process or reasoning, e.g. "(I am thinking X Y Z)", along with your output.**
+
