@@ -1,8 +1,9 @@
-
 ## ChatGPT Prompt Creation Methodology C.R.A.F.T.
 #### By Lawton Solutions
 
-https://www.youtube.com/@LawtonSolutions
+This is my all-time favorite prompt, for ***creating prompts***.  Created by Brian Albert at [Lawton Solutions](https://lawtonsolutions.com/resources/). <br />
+
+https://www.youtube.com/@LawtonSolutions <br />
 https://lawtonsolutions.com/resources/
 
 ## "***A prompt to create a prompt***"
