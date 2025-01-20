@@ -3,8 +3,7 @@
 
 This is my all-time favorite prompt, for ***creating prompts***.  Created by Brian Albert at [Lawton Solutions](https://lawtonsolutions.com/resources/). <br />
 
-https://www.youtube.com/@LawtonSolutions <br />
-https://lawtonsolutions.com/resources/
+Companion Video: https://www.youtube.com/@LawtonSolutions
 
 ## "***A prompt to create a prompt***"
 
