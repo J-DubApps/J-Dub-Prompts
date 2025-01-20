@@ -4,13 +4,17 @@
 
 **Prompt Engineering**: ***The practice of designing and refining inputs to guide AI models toward producing desired outputs.*** 
 
-Unless otherwise stated in each prompt document, my prompts are targeting ChatGPT 4o or o1 models.  I may from time-to-time write a specific prompt for Google Gemini, Anthropic, or other LLMs. 
+Unless otherwise stated in each prompt document, my prompts are targeting ChatGPT 4o or o1 models.  I may from time-to-time write a specific prompt for Google Gemini, Anthropic, or other LLMs (and will say when I do). 
 
 Most of these were crafted by me the past year (vs noted within the prompt-file.md, if sourced from somewhere).
 
-Note: Prompt engineering is currently more art than science, and these prompt files are living documents which I am often changing.  So you may want to check-back now and then, if you download or fork this repo.
+**Note**: Prompt engineering is currently more *art* than science, and these prompt files are living documents which can change often.  So either check-back now and then, or re-fork this repo for updated reference.
 
-Note2: I welcome Pull Requests if you see a logical fallacy or just have a way better wording suggestion.  I might not always accept it (or I may create a separate alternate prompt prompt-file.md from your suggestion), but input is always welcome!
+**Note2**: I welcome Pull Requests if you see a logical fallacy or just have a way better wording or suggestion.  If I don't accept or merge changes, I may create a separate alternate prompt-file.md from your suggestion. But input is always welcome!
+
+----
+
+[Here, also, is my suggestion for writing promopts from scratch](https://github.com/J-DubApps/J-Dub-Prompts/blob/main/1-Elements-of-a-Good-Prompt.md)'
 
 ----
 
