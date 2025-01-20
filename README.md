@@ -14,7 +14,7 @@ Most of these were crafted by me the past year (vs noted within the prompt-file.
 
 ----
 
-[Here, also, is my suggestion for writing promopts from scratch](https://github.com/J-DubApps/J-Dub-Prompts/blob/main/1-Elements-of-a-Good-Prompt.md).
+[Here, also, is my suggestion for writing prompts from scratch](https://github.com/J-DubApps/J-Dub-Prompts/blob/main/1-Elements-of-a-Good-Prompt.md).
 
 ----
 
