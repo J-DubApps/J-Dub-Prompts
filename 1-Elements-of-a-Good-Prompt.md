@@ -48,6 +48,8 @@ Example: "Use a {casual / formal} tone" or "Give me a witty output" or "Show ent
 
 - Ask the AI LLM to include its thought process: <br />
 
-**Provide your thought process or reasoning, e.g. "(I am thinking X Y Z)", along with your output.** <br />
+    **Provide your thought process or reasoning, e.g. "(I am thinking X Y Z)", along with your output.** <br />
 
 - Ask the AI LLM to include citations of its sources used in an aswer ( to avoid inaccuracies or "[hallucinations](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))").
+
+    **Provide any sources you are referencing when creating your answer** <br />
