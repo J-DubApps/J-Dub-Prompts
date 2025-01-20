@@ -21,7 +21,14 @@ Task / Action are *most* important because any task can be given without the oth
 
 ~~~
 
-Example: "I am an Infrastructure Architect working on an Agile team, to create a DevOps automation process for our company's primary software pipeline.  I have been tasked with creating a basic framework for JSON file processing, such that our chosen solution (Ansible) will log all parsed JSON data, for human-review of actions queued into our CI/CD pipeline.  A successful output would offer a way to create a well-formatted log resource, such that our build, test, and deploy groups can monitor up-to-date logs."
+Example: "I am an Infrastructure Architect working on an Agile team, to
+create a DevOps automation process for our company's primary software
+pipeline.  I have been tasked with creating a basic framework for JSON
+file processing, such that our chosen solution (Ansible) will log all
+parsed JSON data, for human-review of actions queued into our CI/CD
+pipeline.  A successful output would offer a way to create a well-
+formatted log resource, such that our build, test, and deploy groups can
+monitor up-to-date logs."
 
 ~~~
 
