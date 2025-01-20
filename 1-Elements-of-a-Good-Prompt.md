@@ -35,13 +35,13 @@ E.g. if having it rewrite your resume, in addition to the exmple of the resume i
 
 **Give any direction as to how you want the output to be structured. Visualize the format you want the result to be in (emails, codeblocks, bullet points, etc).**
 
-Example: "Output in table format with column headers "Feedback", "Team", and "Priority."
+    Example: "Output in table format with column headers "Feedback", "Team", and "Priority."
 
 ### 5. Tone 
 
 **Specify the output *tone* or voice for the output**.  
 
-Example: "Use a {casual / formal} tone" or "Give me a witty output" or "Show enthhusiasm" or "sound pessimistic" etc.
+    Example: "Use a {casual / formal} tone" or "Give me a witty output" or "Show enthhusiasm" or "sound pessimistic" etc.
 
 -----
 ### Optional Elements
