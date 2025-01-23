@@ -2,7 +2,7 @@
 
 ### A curated list of my favorite or most-used LLM prompts.
 
-**Prompt Engineering**: ***The practice of designing and refining inputs to guide AI models toward producing desired outputs.*** 
+**Prompt Engineering**: ***The practice of designing and refining inputs to guide AI models toward producing desired (and accurate) outputs.*** 
 
 Unless otherwise stated in each prompt document, my prompts are targeting ChatGPT 4o or o1 models.  I may from time-to-time write a specific prompt for Google Gemini, Anthropic, or other LLMs (and will say when I do). 
 
