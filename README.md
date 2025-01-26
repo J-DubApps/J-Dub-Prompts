@@ -25,7 +25,7 @@ Let's think, for a moment, about *why* we need prompt *engineering*: current LLM
 1. Models can fabricate responses (*see* [Hallucinations](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))). 
 2. Models are pre-trained with massive but *finite* datasets, meaning they can still lack knowledge about concepts outside of their training scope. As a result, they can produce completions that are inaccurate, imaginary, or directly contradictory to known facts.
 
-Prompt engineering techniques help users identify and mitigate such fabrications e.g., by asking AI for citations or reasoning.  **It may not always be this way**: [AGI-ASI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) eventually won't need a lot of prompt *engineering* when fielding requests.  Until then, it's on *us humans* to craft our prompts in a manner that gets the intended (and accurate) results!
+Prompt engineering techniques help users identify and mitigate such fabrications e.g., by asking AI for citations or reasoning.  **It may not always be this way**: [AGI-ASI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) eventually shouldn't need much prompt *engineering* when fielding requests.  Until then, it's on *us humans* to craft our prompts in a manner that gets the intended (and accurate) results!
 
 Included at the top of this repo are pointers for helping you create better prompts, and even leverage AI models to create better prompts.  Or just look at my favorite examples in each prompt-file.md in this repo.
 
