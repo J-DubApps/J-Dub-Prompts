@@ -43,9 +43,9 @@ Launching a New Smart Home Device by using CRISPE prompt framework. <br />
 
 **P (Preset)** <br />
 
-> ``` Tone: Professional, informative, and engaging with a focus on innovation and customer benefits.
-Format: Provide the plan in sections: 1) Key Launch Strategies, 2) Channels and Tactics, 3) Metrics for Success.
-Length: Approximately 500 words. ```
+> ``` Tone: Professional, informative, and engaging with a focus on innovation and customer benefits. ```
+> ``` Format: Provide the plan in sections: 1) Key Launch Strategies, 2) Channels and Tactics, 3) Metrics for Success. ```
+> ``` Length: Approximately 500 words. ```
 
 **E (Exception)** <br />
 
