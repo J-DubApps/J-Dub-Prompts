@@ -1,6 +1,7 @@
-## CRISPE AI Prompt Framework: Fine Tune AI feedback by Defining Exception
+## CRISPE AI Prompt Framework
+### Fine Tune AI feedback by Defining Exception
 
-**This is a useful framework for ensuring that Exception content is present to calibrate your prompts**. [Source](https://myframework.net/crispe-ai-prompt-framework/). <br />
+**This is a useful framework for ensuring that *Exception content* is present to calibrate your prompts**. [Source](https://myframework.net/crispe-ai-prompt-framework/). <br />
 
 
 ### C (Context):
