@@ -31,32 +31,22 @@ Launching a New Smart Home Device by using CRISPE prompt framework. <br />
 
 **R (Role)** <br />
 
-```
-Act as a product launch expert with experience in successfully introducing tech products into competitive markets. You should provide strategies for both product promotion and customer education.
-```
+> ``` Act as a product launch expert with experience in successfully introducing tech products into competitive markets. You should provide strategies for both product promotion and customer education. ```
 
 **I (Instruction)** <br />
 
-```
-Develop a comprehensive launch plan for the smart thermostat, including the main marketing strategies, key channels for product promotion, and tactics to drive both pre-launch buzz and post-launch sales.
-```
+> ``` Develop a comprehensive launch plan for the smart thermostat, including the main marketing strategies, key channels for product promotion, and tactics to drive both pre-launch buzz and post-launch sales. ```
 
 **S (Subject)** <br />
 
-```
-Product launch strategies for a new voice-activated smart thermostat, with a focus on smart home technology and energy efficiency.
-```
+> ``` Product launch strategies for a new voice-activated smart thermostat, with a focus on smart home technology and energy efficiency. ```
 
 **P (Preset)** <br />
 
-```
-Tone: Professional, informative, and engaging with a focus on innovation and customer benefits.
+> ``` Tone: Professional, informative, and engaging with a focus on innovation and customer benefits.
 Format: Provide the plan in sections: 1) Key Launch Strategies, 2) Channels and Tactics, 3) Metrics for Success.
-Length: Approximately 500 words.
-```
+Length: Approximately 500 words. ```
 
 **E (Exception)** <br />
 
-```
-Do not include recommendations for mass media advertisements (e.g., TV, radio) due to budget constraints. Avoid overly technical jargon and focus on consumer-friendly benefits and value propositions.
-```
+> ``` Do not include recommendations for mass media advertisements (e.g., TV, radio) due to budget constraints. Avoid overly technical jargon and focus on consumer-friendly benefits and value propositions. ```
