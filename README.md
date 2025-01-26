@@ -18,7 +18,7 @@ Most of these were crafted by me the past year (noted within the prompt-file.md,
 
 ----
 
-#### A word on the "art"
+### A word on the "art"
 
 Let's think, for a moment, about *why* we need prompt engineering: current LLMs pose a number of challenges that make *reliable* and *consistent* completions challenging to achieve (without first putting effort into prompt construction and optimization). 
 
