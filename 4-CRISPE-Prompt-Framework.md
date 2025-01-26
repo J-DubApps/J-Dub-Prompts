@@ -27,9 +27,7 @@ Launching a New Smart Home Device by using CRISPE prompt framework. <br />
 
 **C (Context)** <br />
 
-```
-We are about to launch a new smart home device, a voice-activated smart thermostat that integrates with existing home automation systems. The device aims to save energy and reduce utility bills by automatically adjusting the home’s temperature based on user preferences and external weather conditions.
-```
+> ``` We are about to launch a new smart home device, a voice-activated smart thermostat that integrates with existing home automation systems. The device aims to save energy and reduce utility bills by automatically adjusting the home’s temperature based on user preferences and external weather conditions. ```
 
 **R (Role)** <br />
 
