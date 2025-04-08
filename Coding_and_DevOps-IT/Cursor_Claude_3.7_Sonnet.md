@@ -2,7 +2,7 @@
 Obtained initially from https://www.reddit.com/r/ChatGPTCoding/comments/1jtrpvj/i_extracted_cursors_system_prompt/
 -->
 
-this is Cursor IDE's system prompt used by for its AI coding assistant Claude 3.7 Sonnet
+this is Cursor IDE's system prompt (when run under MacOS) used for its AI coding assistant Claude 3.7 Sonnet
 forked from https://github.com/labac-dev/cursor-system-prompts/tree/main
 
 
