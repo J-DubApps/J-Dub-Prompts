@@ -18,8 +18,7 @@ Most of these were crafted by me the past year (noted within the prompt-file.md,
 
 ---
 
-
-If you're getting into coding CLIs or IDEs, be sure to check out my collection of Claude Code sub-agents from various corners of GitHub, under the "[Claude_Squad](https://github.com/J-DubApps/J-Dub-Prompts/tree/main/Claude_Squad)" folder. 😊
+Hey, if you're getting into coding CLIs and agents, be sure to check out my collection of Claude Code sub-agents from various corners of GitHub, under the "[Claude_Squad](https://github.com/J-DubApps/J-Dub-Prompts/tree/main/Claude_Squad)" folder. 😊
 
 ---
 
