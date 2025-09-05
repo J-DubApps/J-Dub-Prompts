@@ -1,6 +1,6 @@
 # Claude Squad - AI Agent Collection 🤖
 
-A comprehensive collection of specialized AI coding agents designed to work with Claude and other LLMs. These agents are expertly crafted to handle specific development tasks, from core coding to DevOps, project management, and quality assurance.
+My personal collection of specialized AI coding agents designed to work with Claude and other LLMs. These agents were collected from other open source projects around GitHub that offer agents that handle specific development tasks, from core coding to DevOps, project management, and quality assurance.
 
 ## 📁 Agent Categories
 
