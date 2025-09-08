@@ -1,6 +1,6 @@
 # Claude Squad - AI Agent Collection 🤖
 
-My personal collection of specialized AI coding agents designed to work with Claude and other LLMs. These agents were collected from other open source projects around GitHub that offer agents that handle specific development tasks, from core coding to DevOps, project management, and quality assurance.
+My personal collection of specialized AI coding sub-agents designed to work with Claude Code (and other LLMs with similar sub-agent capabilities). These agents were collected from other open source projects around GitHub that offer sub-agents that can handle specific development tasks ranging from core coding to DevOps, to project management, and quality assurance as well as shipping to prod.  Most of my "squad" were sourced from [this Repo](https://github.com/VoltAgent/awesome-claude-code-subagents), which offers a fantastic collection of over 100 sub-agents.
 
 ## 📁 Agent Categories
 
